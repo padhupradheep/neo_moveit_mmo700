@@ -18,14 +18,12 @@
         <link name="ur10wrist_2_link" />
         <link name="ur10wrist_3_link" />
         <link name="ur10ee_link" />
-        <joint name="cabinet_u10_joint" />
         <joint name="ur10shoulder_pan_joint" />
         <joint name="ur10shoulder_lift_joint" />
         <joint name="ur10elbow_joint" />
         <joint name="ur10wrist_1_joint" />
         <joint name="ur10wrist_2_joint" />
         <joint name="ur10wrist_3_joint" />
-        <joint name="ur10ee_fixed_joint" />
         <chain base_link="ur10base_link" tip_link="ur10ee_link" />
     </group>
     <!--END EFFECTOR: Purpose: Represent information about an end effector.-->
