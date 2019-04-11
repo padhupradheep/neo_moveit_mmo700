@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(moveit_mmo700)
+project(moveit_mmo700_v3)
 
 find_package(catkin REQUIRED)
 
